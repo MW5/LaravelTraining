@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/MW5/Documents/NetBeansProjects/catPage/resources/views/pages/layout.blade.php</file>
+            <file>file:/C:/Users/MW5/Documents/NetBeansProjects/catPage/resources/views/pages/cat.blade.php</file>
+            <file>file:/C:/Users/MW5/Documents/NetBeansProjects/catPage/resources/views/pages/cats.blade.php</file>
+            <file>file:/C:/Users/MW5/Documents/NetBeansProjects/catPage/resources/views/pages/about.blade.php</file>
+            <file>file:/C:/Users/MW5/Documents/NetBeansProjects/catPage/app/Http/Controllers/pagesController.php</file>
+            <file>file:/C:/Users/MW5/Documents/NetBeansProjects/catPage/app/Http/Controllers/catListController.php</file>
+            <file>file:/C:/Users/MW5/Documents/NetBeansProjects/catPage/app/Http/routes.php</file>
+            <file>file:/C:/Users/MW5/Documents/NetBeansProjects/catPage/app/Cat.php</file>
+            <file>file:/C:/Users/MW5/Documents/NetBeansProjects/catPage/resources/assets/sass/app.scss</file>
+            <file>file:/C:/Users/MW5/Documents/NetBeansProjects/catPage/resources/views/pages/home.blade.php</file>
+        </group>
+    </open-files>
+</project-private>

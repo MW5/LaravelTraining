@@ -14,5 +14,7 @@
 Route::get('/', 'pagesController@home');
 
 Route::get('cats', 'catListController@cats');
+Route::get('cats/{cat}', 'catListController@show');
+//it passes the wildcard as an argument to the controller
 
 Route::get('about', 'pagesController@about');

@@ -7,6 +7,17 @@ $fontColor: blue;
     margin-left: auto;
     margin-right: auto;
 }
+#nav {
+    display:inline-block;
+    width: 100%;
+    border-bottom: 1px solid black;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+#nav a {
+    margin-left: 5vw;
+    margin-right: 5vw;
+}
 .catListElement {
     display: inline-block;
     border: 1px solid black;
@@ -18,6 +29,14 @@ $fontColor: blue;
 .catListElement img {
     width: auto;
     height: auto;
+}
+
+.oneCat {
+    display: inline-block;
+    text-align: center;
+    width: 70vw;
+    height: auto;
+    margin-top: 5px;
 }
 
 body {
